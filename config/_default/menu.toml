@@ -10,7 +10,8 @@
 [[social]]
 identifier = "github"
 name = "GitHub"
-url = "https://github.com/CaiJimmy/hugo-theme-stack"
+#url = "https://github.com/CaiJimmy/hugo-theme-stack"
+url = "https://github.com/khoguan/hugo-theme-stack-starter"
 
 [social.params]
 icon = "brand-github"
