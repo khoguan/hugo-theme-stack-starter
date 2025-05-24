@@ -17,8 +17,10 @@ lastUpdated = "Jan 02, 2006 15:04 MST"
 #subtitle = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
 subtitle = "頭戴台灣天  \n跤踏台灣地  \n喙講台灣話  \n手寫台語文"
 
-[customCSS]
-files = ["css/custom.css"]
+#[customCSS]
+#files = ["css/custom.css"]
+[params]
+customCSS = ["css/custom.css"]
 
 [sidebar.avatar]
 enabled = true
