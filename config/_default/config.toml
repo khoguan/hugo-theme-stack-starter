@@ -2,7 +2,7 @@
 #baseurl = "https://demo.stack.jimmycai.com"
 baseurl = "https://stack.taigi.page"
 languageCode = "zh-tw"
-title = "台語文理想國Hugo with Stack版"
+title = "潘科元台語文理想國"
 
 # Theme i18n support
 # Available values: en, fr, id, ja, ko, pt-br, zh-cn, zh-tw, es, de, nl, it, th, el, uk, ar
